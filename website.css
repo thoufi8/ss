@@ -1,0 +1,81 @@
+body{
+    background-color: black;
+}
+ul{
+display: flex;
+margin-top:0;
+padding-left: 0;
+font-size: 20px;
+margin-left: 70px;
+list-style: none;
+color: azure;
+}
+.card{
+width: 500px;
+background-color: rgb(239, 193, 245);
+display: inline-block;
+border: 2px solid black;
+}
+li{
+margin-left: 70px;
+text-decoration: none;
+}
+a{
+color: aliceblue;
+}
+header
+    {
+        background: linear-gradient(lightpink,lightcoral);
+        background:linear-gradient(rgb(0,0,0,0.3),rgb(0,0,0,0.6)), url("https://img.freepik.com/free-photo/young-adults-walking-city-fashionable-elegance-generative-ai_188544-33502.jpg?size=626&ext=jpg&ga=GA1.1.1297763733.1711584000&semt=ais");
+        background-repeat: no-repeat;
+        background-size: cover;
+        color: aliceblue;   
+    padding-bottom: 30px;  
+    justify-content: center;    
+    position: sticky;
+ }
+ h1{
+text-align: center;
+font-size: 40px;
+text-decoration: underline;
+color: aliceblue;
+}
+h4
+{
+margin-left: 800px;
+color: azure;
+}
+.card-deck{
+width: 90%;
+margin: 40px auto;
+}
+img{
+height: 350px;
+width: 150px;
+}
+.card:hover{
+transform: scale(1.1);
+}
+P{
+color: rgb(11, 11, 11);
+font-family: sans-serif;
+font-size: 30PX;
+text-align: center
+}
+P:hover{
+color: rgb(4, 93, 247);
+}
+#ww{
+background-color: pink;
+}
+#back{
+    font-weight: bolder;
+    font-size: medium;
+    color: black;
+}
+p{
+    color: aliceblue;
+}
+h3{
+    color: aliceblue;
+}
